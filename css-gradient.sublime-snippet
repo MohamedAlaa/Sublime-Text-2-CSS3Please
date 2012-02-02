@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[background-color: #${1:444444};
+	  background-image: -webkit-gradient(linear, left top, left bottom, from(#${2:444444}), to(#${3:999999})); 
+	  background-image: -webkit-linear-gradient(top, #${4:444444}, #${5:999999}); 
+	  background-image:    -moz-linear-gradient(top, #${6:444444}, #${7:999999}); 
+	  background-image:     -ms-linear-gradient(top, #${8:444444}, #${9:999999}); 
+	  background-image:      -o-linear-gradient(top, #${10:444444}, #${11:999999}); 
+	  background-image:         linear-gradient(to bottom, #${12:444444}, #${13:999999});$0
+	]]></content>
+	<tabTrigger>css:gradient</tabTrigger>
+	<scope>source.css</scope>
+	<description>CSS3 Gradient Snippet</description>
+</snippet>

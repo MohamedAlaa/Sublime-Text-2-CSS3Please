@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+    -webkit-border-radius: ${1:5}px;
+       -moz-border-radius: ${2:5}px;
+            border-radius: ${3:5}px;
+    -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;$0
+	]]></content>
+	<tabTrigger>css:bdrz</tabTrigger>
+	<scope>source.css</scope>
+	<description>CSS3 Border Radius</description>
+</snippet>

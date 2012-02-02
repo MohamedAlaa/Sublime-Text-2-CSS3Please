@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+	  -webkit-box-shadow: ${1:0px} ${2:0px} ${3:4px} #${4:ffffff};
+	     -moz-box-shadow: ${5:0px} ${6:0px} ${7:4px} #${8:ffffff};
+	          box-shadow: ${9:0px} ${10:0px} ${11:4px} #${12:ffffff};$0
+	]]></content>
+	<tabTrigger>css-shadow</tabTrigger>
+	<scope>source.css</scope>
+	<description>CSS3 Box Shadow Snippet</description>
+</snippet>
