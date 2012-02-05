@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[@font-face {
-	font-family: 'WebFont';
-    src: url('${1:myfont}.eot?#') format('eot'),
-	       url('${2:myfont}.woff') format('woff'),
-		     url('${3:myfont}.ttf') format('truetype');$0
+	font-family: '${1:FontName}';
+    src: url('${2:myfont}.eot?#') format('eot'),
+	       url('${3:myfont}.woff') format('woff'),
+		     url('${4:myfont}.ttf') format('truetype');$0
   }
 	]]></content>
 	<tabTrigger>css-ff</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, source.scss</scope>
 	<description>CSS3 Font Face Snippet</description>
 </snippet>

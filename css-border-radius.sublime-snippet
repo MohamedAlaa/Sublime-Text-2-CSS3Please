@@ -6,6 +6,6 @@
     -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;$0
 	]]></content>
 	<tabTrigger>css:bdrz</tabTrigger>
-	<scope>source.css</scope>
+	<scope>source.css, source.scss</scope>
 	<description>CSS3 Border Radius</description>
 </snippet>

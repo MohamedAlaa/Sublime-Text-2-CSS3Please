@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+-webkit-transition: all 0.${1:3}s ease-out;
+   -moz-transition: all 0.${2:3}s ease-out;
+    -ms-transition: all 0.${3:3}s ease-out;
+     -o-transition: all 0.${4:3}s ease-out;
+        transition: all 0.${5:3}s ease-out;$0
+]]>
+	</content>
+	<tabTrigger>css-trans</tabTrigger>
+	<scope>source.css, source.scss</scope>
+	<description>CSS3 Transition Snippet</description>
+</snippet>
