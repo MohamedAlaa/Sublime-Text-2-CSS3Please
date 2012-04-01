@@ -2,8 +2,8 @@
 	<content><![CDATA[@font-face {
 	font-family: '${1:FontName}';
     src: url('${2:myfont}.eot?#') format('eot'),
-	       url('${3:myfont}.woff') format('woff'),
-		     url('${4:myfont}.ttf') format('truetype');$0
+	       url('${2:myfont}.woff') format('woff'),
+		     url('${2:myfont}.ttf') format('truetype');$0
   }
 	]]></content>
 	<tabTrigger>css-ff</tabTrigger>
